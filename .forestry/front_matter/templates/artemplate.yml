@@ -23,3 +23,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- exampleSite/content/post/اخلاقيات-وذوقيات-ليصبح-تعاملك-اليومي-افضل/عنوان-المقال.md
