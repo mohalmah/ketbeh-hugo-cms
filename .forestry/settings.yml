@@ -5,7 +5,7 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: directory
-  path: exampleSite/content/post/اخلاقيات-وذوقيات-ليصبح-تعاملك-اليومي-افضل
+  path: exampleSite/content/post/arposts
   label: ArPosts
   create: all
   match: "**/*"
