@@ -24,4 +24,5 @@ fields:
   name: image
   label: image
 pages:
+- exampleSite/content/post/اخلاقيات-وذوقيات-ليصبح-تعاملك-اليومي-افضل/اختراق-عقل-الرجل.md
 - exampleSite/content/post/اخلاقيات-وذوقيات-ليصبح-تعاملك-اليومي-افضل/عنوان-المقال.md
