@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: كِتبه، منصة عربية تقدم محتوى متميز
+        subtitle: كِتبه منصة عربية تقدم محتوى متميز
         avatar:
             enabled: true
             local: true
